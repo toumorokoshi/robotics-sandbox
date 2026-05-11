@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "kalmann-filter",
+]
+resolver = "2"
